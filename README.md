@@ -1,14 +1,16 @@
 # JOINclusion Performance Analysis Platform
+![JOINclusion Logo](images/Logo+Name.png)
 
-This repository offers a powerful toolkit for analyzing and predicting student collaborative performance based on interaction data collected from educational games or learning environments. It combines machine learning, clustering algorithms, and an interactive dashboard built with Streamlit.
+
+This repository offers a powerful toolkit for analysing and predicting student collaborative performance based on interaction data collected from educational games or learning environments. It combines machine learning, clustering algorithms, and an interactive dashboard built with Streamlit.
 
 ---
 
 ## Features
 
 - **👩‍🏫 Teacher Dashboard**: Provides intuitive tools for teachers to explore and interpret student activity data.
-- **📊 Clustering Analysis**: Automatically detect behavioral patterns in student data using clustering techniques.
-- **📈 Predictive Modeling**: Use machine learning to estimate a student's collaborative performance potential.
+- **📊 Clustering Analysis**: Automatically detect behavioural patterns in student data using clustering techniques.
+- **📈 Predictive Modelling**: Use machine learning to estimate a student's collaborative performance potential.
 
 ---
 
@@ -24,7 +26,7 @@ This repository offers a powerful toolkit for analyzing and predicting student c
 ## Dashboard Previews
 
 ### 👩‍🏫 Teacher Dashboard
-_A visual summary of student progress and behavioral metrics._
+_A visual summary of student progress and behavioural metrics._
 ![Teacher Dashboard](images/teacher_dashboard.png)
 
 ### 📊 Clustering View
@@ -41,7 +43,7 @@ _Predict team performance based on selected students' features._
 
 ### Prerequisites
 
-Ensure Python 3.8+ is installed. Then install required packages:
+Ensure Python 3.8+ is installed. Then install the required packages:
 
 ```bash
 pip install -r requirements.txt
@@ -69,11 +71,11 @@ streamlit run dashboard.py
 
 1. Load a dataset of multiple students.
 2. Adjust clustering parameters and view resulting groups.
-3. Analyze behavioral patterns for different groups.
+3. Analyse behavioural patterns for different groups.
 
 ### Teacher Dashboard
 
-- Use this mode to explore individual and group behavior with filters and summaries.
+- Use this mode to explore individual and group behaviour with filters and summaries.
 
 ---
 
