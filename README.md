@@ -97,3 +97,5 @@ MIT License
 ## Authors
 
 - Enrique Hortal / Yusuf Can Semerci / Annanda de Freitas Sousa - Department of Advanced Computing Sciences, Maastricht University
+
+![EU funded](images/EN-Funded_by_the_EU-POS.png)
