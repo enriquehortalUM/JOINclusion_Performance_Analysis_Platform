@@ -6,3 +6,4 @@ scikit-learn>=1.2,<1.4
 seaborn>=0.13,<0.14
 plotly>=5.0.0
 streamlit==1.40.2
+xgboost==1.7.6
